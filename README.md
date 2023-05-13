@@ -8,7 +8,6 @@
 
 ## Classifica argoment più votati
 
-La classifica dei dei talk/eventi più votati è disponibile [qui][2].
+[I piu votatii][2].
 
-[1]: https://github.com/sensoraro/youtube/issues/new
 [2]: https://github.com/sensoraro/youtube/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
