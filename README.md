@@ -8,6 +8,6 @@
 
 ## Classifica argoment più votati
 
-[I piu votatii][2].
+[I piu votatii][2]
 
 [2]: https://github.com/sensoraro/youtube/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
