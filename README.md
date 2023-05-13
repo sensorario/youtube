@@ -2,11 +2,11 @@
 
 - proponi un argomento creando una issue
 - usa il titolo del ticket per l'argomento (esempio: "Git per principianti")
-- Se ti interessa un evento proposto e vuoi votarlo, fai un `+1`
-- Se hai commenti o suggerimenti su un argomento proposto, fallo direttamente nella discussione del ticket.
-- Una volta pubblcato il video pubblicherò link al video o altre risorse come dev.to
+- se ti interessa un argomento proposto e vuoi votarlo, fai un `+1`
+- se hai commenti o suggerimenti su un argomento, fallo direttamente nella issue
+- una volta pubblcato il video pubblicherò link a youtube e/o ad altre risorse
 
-## Classifica eventi più votati
+## Classifica argoment più votati
 
 La classifica dei dei talk/eventi più votati è disponibile [qui][2].
 
