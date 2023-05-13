@@ -1,4 +1,4 @@
-# youtube
+# http://youtube.com/@sensorario
 
 - proponi un argomento creando una issue
 - usa il titolo del ticket per l'argomento (esempio: "Git per principianti")
